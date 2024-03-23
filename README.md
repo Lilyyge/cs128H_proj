@@ -1,5 +1,5 @@
 # cs128H_proj
-
+US Stock Quantitative Analysis
 constantine- shijiea2
 chris- tiankai2
 lily- lilyig2
