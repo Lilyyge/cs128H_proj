@@ -1,8 +1,12 @@
 # cs128H_proj
+
+
 US Stock Quantitative Analysis
-constantine- shijiea2
-chris- tiankai2
-lily- lilyig2
+constantine- shijiea2,
+chris- tiankai2,
+lily- lilyig2,
+
+
 The project aims to develop a quantitative analysis model for the stock market using Rust. This model will analyze historical stock data to identify trends, predict future price movements, and generate trading signals. The project's motivation is to leverage Rust's performance capabilities to process large datasets efficiently and to provide real-time analysis for informed trading decisions.
 
 Goals and Objectives
